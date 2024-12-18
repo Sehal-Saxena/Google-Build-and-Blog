@@ -96,28 +96,40 @@ Scholar Quest leverages Gemini AI to bridge the gap between students and scholar
 ![Screenshot 2024-12-18 170120](https://github.com/user-attachments/assets/7b5beb4d-2b34-459b-a703-a833e4dc7c08)
 
 
-##Work Flow
+
+## Work Flow
 
 1. Enter Your Details
 The user begins by filling out a form with their details, such as name, income, gender, and state.
+
 ![Screenshot 2024-12-18 164136](https://github.com/user-attachments/assets/7c1bb426-8805-49a2-9dda-d8957becfe5c)
+
 
 
 2. Submit Information
 Once the details are filled out, the user submits the form to store their information securely in the system.
+
 ![Screenshot 2024-12-18 164315](https://github.com/user-attachments/assets/001d0a91-032b-4185-b392-a769315024e6)
 
 
-3. Ask a Query to Scholar Quest Bot
+
+4. Ask a Query to Scholar Quest Bot
 After submitting the details, the user can interact with the Scholar Quest Bot, asking questions related to scholarships, schemes, or opportunities based on their provided information.
+
 ![Screenshot 2024-12-18 164506](https://github.com/user-attachments/assets/8ccc069c-5496-4283-b6ef-858bb0457b22)
 
 
-5. Receive Necessary Information
+
+
+6. Receive Necessary Information
 The Scholar Quest Bot processes the query and provides the user with personalized results, including the eligibility, requirements, and application details of the relevant scholarships or government agricultural schemes.
+
 ![Screenshot 2024-12-18 164626](https://github.com/user-attachments/assets/269c31d2-507c-4ffb-9fa3-105b2a5d5d07)
 
-##Future Scope
+
+
+
+## Future Scope
 
 1. Expansion to Support Marginalized Communities: The platform can be extended to include information on government policies and schemes for tribal populations, Scheduled Castes (SC), Scheduled Tribes (ST), disabled individuals, and senior citizens.
 2. Assisting Underprivileged Communities: By providing personalized and relevant details, the platform can help uplift underprivileged communities and ensure they have access to beneficial opportunities.
